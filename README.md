@@ -47,7 +47,26 @@ HAL_GPIO_WritePin(...);
 ## Инструменты разработки и отладки
 
 1. STM32CubeIDE
-1. STM32CubeMX + [VSCode](https://code.visualstudio.com/) + [Cortex-Debug](https://marketplace.visualstudio.com/items?itemName=marus25.cortex-debug)
+
+Ссылки на скачивание
+
+[Windows](https://disk.yandex.ru/d/G94ssKUJKjApeQ)
+
+Linux
+
+[deb](https://disk.yandex.ru/d/whkflRO26zuxNg)
+
+[rpm](https://disk.yandex.ru/d/UdT3zghFEq6LSg)
+
+[sh](https://disk.yandex.ru/d/of-QI10rmBiABA)
+
+macOS
+
+[часть1](https://disk.yandex.ru/d/UQi6RtPGk5bG1Q)
+
+[часть2](https://disk.yandex.ru/d/qF83EFucY-ZmIg)
+
+2. STM32CubeMX + [VSCode](https://code.visualstudio.com/) + [Cortex-Debug](https://marketplace.visualstudio.com/items?itemName=marus25.cortex-debug)
 
 ### STM32CubeIDE
 
